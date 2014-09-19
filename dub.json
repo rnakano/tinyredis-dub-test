@@ -4,6 +4,9 @@
 	"copyright": "Copyright © 2014, rnakano",
 	"authors": ["rnakano"],
 	"dependencies": {
-      "tinyredis": ">=2.0.0"
-	}
+    "tinyredis-dub:tinyredis": "~master"
+	},
+  "subPackages": [
+    "./Tiny-Redis/"
+  ]
 }

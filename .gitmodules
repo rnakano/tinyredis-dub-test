@@ -1,0 +1,3 @@
+[submodule "Tiny-Redis"]
+	path = Tiny-Redis
+	url = https://github.com/rnakano/Tiny-Redis
