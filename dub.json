@@ -1,0 +1,9 @@
+{
+	"name": "tinyredis-dub",
+	"description": "A minimal D application.",
+	"copyright": "Copyright © 2014, rnakano",
+	"authors": ["rnakano"],
+	"dependencies": {
+      "tinyredis": ">=2.0.0"
+	}
+}
